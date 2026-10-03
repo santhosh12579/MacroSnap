@@ -30,7 +30,7 @@ st.set_page_config(
 # SECRETS
 # =========================================================
 
-GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
+GEMINI_API_KEY = "AQ.Ab8RN6IUtRwxE_sSyXBNLSkyH4GoYM9ecHaMBWsmqL9EQn7FvA"
 
 # Twilio is optional
 TWILIO_ACCOUNT_SID = st.secrets.get("TWILIO_ACCOUNT_SID", "")
